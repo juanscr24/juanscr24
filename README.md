@@ -7,24 +7,19 @@
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world%2C+I'm+Juan.;I'm+a+junior+frontend+developer" alt="Typing SVG" /></a>
 </div>
 
+## About Me  
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-## I'm a Associate Software Engineer at Acentura
-
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 🎓 I’m an *Architect* turned *Software Developer*, passionate about *Frontend Development* and building modern web apps.  
+- 🐾 Creator of *PetMatch*, a platform for pet adoption with CRUD, roles, and chat system.  
+- 📚 Currently learning *Backend Development (Node.js, Express, MySQL, MongoDB)* to strengthen my full-stack skills.  
+- 🎮 I enjoy eSports, soccer, and hitting the gym.  
+- 🌎 I speak *Spanish and English*, and I’m interested in studying abroad.  
+- 🚀 Future goals: Keep improving as a *Frontend Developer and never stop creating new projects.
 
 ---
 
- ### 👉 Software & Tools
+ ## Software & Tools
  
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,9 +32,6 @@
   </a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
-
-
+---
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
