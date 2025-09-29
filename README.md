@@ -14,7 +14,7 @@
 - 📚 Currently learning *Backend Development (Node.js, Express, MySQL, MongoDB)* to strengthen my full-stack skills.  
 - 🎮 I enjoy eSports, soccer, and hitting the gym.  
 - 🌎 I speak *Spanish and English*, and I’m interested in studying abroad.  
-- 🚀 Future goals: Keep improving as a *Frontend Developer and never stop creating new projects.
+- 🚀 Future goals: Keep improving as a *Frontend Developer* and never stop creating new projects.
 
 ---
 
