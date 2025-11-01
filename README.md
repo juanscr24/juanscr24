@@ -2,7 +2,7 @@
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HELLO+WORLD%2C+I'M+JUAN.;I'M+A+FRONTEND+DEVELOPER" alt="Typing SVG" /></a>
 
 🎓 I'm an **Architect turned Software Developer**, passionate about **Frontend Development** and building **modern, scalable web applications**.  
-💼 **Founder of [Bug Hunters](#)** — a freelance development team dedicated to creating **high-quality, customized web solutions** for all kinds of projects.
+💼 **Founder of [Bug Hunters](https://github.com/Bug-Hunter-Co)** — a freelance development team dedicated to creating **high-quality, customized web solutions** for all kinds of projects.
 
 ---
 
