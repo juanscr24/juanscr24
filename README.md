@@ -5,7 +5,6 @@
 </p>
 
 🎓 **Architect turned Software Developer**, specialized in **modern, scalable, and user-centered web applications**.  
-💼 **Frontend Developer at Wainwright Codex** — Web engineering and digital craftsmanship that build robust and elegant technological solutions.
 
 ---
 
@@ -20,18 +19,6 @@
 - Expanding my Full Stack expertise with **Node.js, Express, MySQL, and MongoDB**.  
 - Passionate about **eSports**, **football**, and **fitness**.  
 - Fluent in **Spanish** 🇪🇸 and **English** 🇺🇸.
-
----
-
-## 🚀 Wainwright Codex  
-**Web engineering and digital craftsmanship.** We build technological vehicles that drive businesses toward their strategic destinations.
-
-**What we do:**  
-- Modern websites and interactive applications  
-- Detail-oriented development  
-- Scalable and maintainable code  
-
-> **Your vision, our engineering.**
 
 ---
 
@@ -62,8 +49,7 @@
 
 ## 🎯 Goals  
 
-- Grow as a **Frontend Developer**  
-- Contribute to the growth of **Wainwright Codex**  
+- Grow as a **Frontend Developer**   
 - Build modern and meaningful digital experiences  
 
 ---
